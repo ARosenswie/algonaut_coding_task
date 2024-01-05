@@ -1,6 +1,6 @@
 # Algonaut Coding Task
 
-### Provided below are the steps to create a question-answer tool via Streamlit. This was created with the text-davinici-003 model with inference temperature=0.1.
+Provided below are the steps to create a question-answer tool via Streamlit. This was created with the text-davinci-003 model with inference temperature=0.1.  All of the codes are located in the folder:  'coding_exercise_algonaut'.
 
 ## Step 1:
 Create a virtual environment with python or conda:
