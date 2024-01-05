@@ -40,4 +40,4 @@ Hit Enter, and wait for the output to appear. When finished, it should look like
 
 ## Notes:
 
-There is a three second delay that is in accordance with the arXiv, [found here](https://info.arxiv.org/help/api/tou.html).
+There is a three second delay that is in accordance with arXiv, [found here](https://info.arxiv.org/help/api/tou.html).
