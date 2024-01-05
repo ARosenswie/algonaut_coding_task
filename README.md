@@ -1,6 +1,6 @@
 # Algonaut Coding Task
 
-### Provided below are the steps to create a question-answer tool via Streamlit.
+### Provided below are the steps to create a question-answer tool via Streamlit. This was created with the text-davinici-003 model with inference temperature=0.1.
 
 ## Step 1:
 Create a virtual environment with python or conda:
