@@ -1,4 +1,5 @@
 # Algonaut Coding Task
+
 ### Provided below are the steps to create a question-answer tool via Streamlit.
 
 ## Step 1:
@@ -26,4 +27,8 @@ You can type one of the following questions into the given textbox:
 - Name at least 5 domain-specific LLMs that have been created by fine-tuning Llama-2.
 - What can you find out about the model structure of Llama-2 (required memory, required computing capacity, number of parameters, available quantizations)?
 ## Step 6:
-Hit Enter, and wait for the output to appear.
+Hit Enter, and wait for the output to appear. When finished, it should look like this: 
+
+
+![](coding_exercise_algonaut/screenshot.PNG)
+
